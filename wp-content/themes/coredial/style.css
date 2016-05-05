@@ -1,0 +1,14 @@
+/*
+	Theme Name:Coredial Intranet
+	Theme URI:http://hedgehog.coredial.com/
+	Description:The default WordPress theme for the Coredial Intranet
+	Version:2.0
+	Author:Paul E. Bagosy, Jr.
+	Author URI:http://paul.bagosy.com/
+	Tags:blue, custom header, fixed width, two columns, widgets
+*/
+
+.aligncenter, div.aligncenter	{ display:block; margin-left:auto; margin-right:auto; }
+.wp-caption						{ border:1px solid #DDD; text-align:center; background:#F3F3F3; padding-top:4px; margin:10px; -moz-border-radius:3px; -khtml-border-radius:3px; -webkit-border-radius:3px; border-radius:3px; }
+.wp-caption img					{ margin:0px; padding:0px; border:0 none; }
+.wp-caption p.wp-caption-text	{ font-size:12px; padding:0 4px 5px; margin:0px; }
